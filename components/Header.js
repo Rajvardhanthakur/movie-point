@@ -22,7 +22,7 @@ const Header = () => {
       </div>
       <Image 
         className="object-contain"
-        src="https://i.pinimg.com/736x/0c/32/97/0c3297f3516a415219c7e89e16a4a3d2.jpg"
+        src="https://banner2.cleanpng.com/20190730/shy/kisspng-photographic-film-movie-camera-cinema-website-and-mobile-application-development-service-5d3fc924ce3b33.8538265315644613488447.jpg"
         width={200}
         height={100}
        />
